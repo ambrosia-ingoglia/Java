@@ -2,10 +2,3 @@ For this project, we created a library system with two different menus. This all
 To access the librarian menu, the librarian must put in the password(default set to cookie). Both menus allow the user to 
 search for books and exit their user menus using the command 'stop'. The librarian can create two types of reports, a student 
 report or a book report. The librarian also allows the librarian to search for a specific student in the list of students.
-
-I believe I met all the requirements for this project. According to my check list at least. 
-
-Issues encountered: 
--I tried using the commons libraries to make csv files easier to read and write but encountered too many problems
--At one point, my program was stuck inside the student menu and was fixed using Objects.equals. 
--The files were being weird and the program would throw the "file not found" exception. 
